@@ -6,3 +6,9 @@
     color: chartreuse;
 
 }
+
+.photo {
+  margin: auto;
+  width: 25%;
+  padding: 10px;
+}
